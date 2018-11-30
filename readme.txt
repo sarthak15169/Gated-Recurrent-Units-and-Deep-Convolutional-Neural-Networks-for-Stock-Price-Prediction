@@ -1,0 +1,3 @@
+The code has been taken from the following sources:
+1. https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning
+2. https://github.com/jha-prateek/Stock-Prediction-RNN
